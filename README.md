@@ -1,4 +1,4 @@
-# Assignment2
+# Data Management and Research life cycle
 
 ## Overview
 This repository created for the coure Data Management and Research Life Cycle (2019-spring)in University Texas at Austin. It includes all the data for assignments and the final project. 
